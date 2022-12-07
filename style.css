@@ -1,1 +1,19 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.capa{
 
+    width: 100%;
+}
+.beneficio{
+    width: 30%;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+li{
+    padding: 20px;
+}
